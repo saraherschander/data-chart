@@ -1,0 +1,42 @@
+
+* {
+	margin: auto;
+	background-color: #e3eee3;
+	max-width: 960px;
+}
+
+img {
+	width: 75%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: solid;
+	border-color: black;
+	padding: 5px;
+	margin-top: 10px;
+}
+
+
+h1 {
+	text-decoration: underline;
+	font-family: 'Xanh Mono', monospace;
+	padding: 10px;
+}
+
+p {
+	font-family: 'Karla', sans-serif;
+	padding: 10px;
+	}
+
+#byline {
+	font-weight: 700;
+	font-family: 'Karla', sans-serif;
+}
+
+#graphs {
+	max-width: 800px;
+}
+
+.caption {
+	text-align: center;
+}
